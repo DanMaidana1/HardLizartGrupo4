@@ -1,6 +1,8 @@
-# Grupo nro...
-## Trabajo: Hard Lizard
+# Grupo nro 4
+## Trabajo: Hard Lizard Modificado
 ## Integrantes:
-- Fulano
-- Zutano
-- Mengano
+- Andrea Moroño
+- Cristian Villalba
+- Danilo Maidana
+- Ezequiel Arias
+- Sofía Andrada
