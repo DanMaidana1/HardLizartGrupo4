@@ -8,12 +8,22 @@ module.exports = function(req,res){
             break;
         case '/en-cartelera':
             index.enCartelera(req,res)
-            break;
+            break
+        case '/mas-votadas':
+            index.masVotadas(req,res)
+            break
+        case '/sucursales':
+            index.sucursales(req,res)
+            break
         case '/contacto':
             index.contacto(req,res)
-            break;   
-
+            break
+        case '/preguntas-frecuentes':
+            index.preguntasFrecuentes(req,res)
+            break
         default:
+            index.respuesta(req,res)
             break;
     }
 }
+
